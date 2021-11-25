@@ -36,8 +36,8 @@ module.exports = {
 
   plugins: ["truffle-contract-size",'truffle-plugin-verify'],
   api_keys: {
-    bscscan: "MCSQUNS66DTM6KD3ZU6CGZKCGWYI98Y7AB",
-    bscscantestnet: "MCSQUNS66DTM6KD3ZU6CGZKCGWYI98Y7AB"
+    bscscan: "",
+    bscscantestnet: ""
   },
   networks: {
     // Useful for testing. The `development` name is special - truffle uses it by default
